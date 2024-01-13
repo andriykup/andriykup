@@ -1,6 +1,7 @@
-### Hi, I’m Andriy, a student at [Codam](https://www.codam.nl/)
+### Hi, I’m Andriy, [Codam's](https://www.codam.nl/) student :upside_down_face:
 
 I started my coding journey in 2020, and in 2023 I become a student at codam. I'm learning programming languages to create something new and unique.
+
 ___
 
 **Codam | 42Network - Projects**
