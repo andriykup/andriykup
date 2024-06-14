@@ -5,4 +5,4 @@ ___
 
 **Languages/Technologies/Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vim,vscode,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vim,vscode,docker,c)](https://skillicons.dev)
